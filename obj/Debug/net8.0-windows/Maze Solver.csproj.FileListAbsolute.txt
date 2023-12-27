@@ -1,0 +1,16 @@
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\bin\Debug\net8.0-windows\Maze Solver.exe
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\bin\Debug\net8.0-windows\Maze Solver.deps.json
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\bin\Debug\net8.0-windows\Maze Solver.runtimeconfig.json
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\bin\Debug\net8.0-windows\Maze Solver.dll
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\bin\Debug\net8.0-windows\Maze Solver.pdb
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze_Solver.MazeInterface.resources
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze Solver.csproj.GenerateResource.cache
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze Solver.AssemblyInfoInputs.cache
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze Solver.AssemblyInfo.cs
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze Solver.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze Solver.dll
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\refint\Maze Solver.dll
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze Solver.pdb
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\Maze Solver.genruntimeconfig.cache
+C:\Users\igor-\source\repos\Maze Solver\Maze Solver\obj\Debug\net8.0-windows\ref\Maze Solver.dll
